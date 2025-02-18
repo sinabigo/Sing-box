@@ -21,7 +21,7 @@
             margin-bottom: 10px;
         }
         .logo {
-            max-width: 100px; /* بزرگ‌تر کردن لوگو */
+            max-width: 100px;
             margin-right: 10px;
         }
         .header {
@@ -42,27 +42,27 @@
             color: #555;
             margin-bottom: 20px;
         }
-        .sublink {
-            background-color: yellow;
-            padding: 10px;
-            margin: 10px;
-            display: inline-block;
-            font-size: 18px;
-            font-weight: bold;
-            border-radius: 5px;
-            cursor: pointer;
-        }
         .software-links {
             font-size: 20px;
             font-weight: bold;
             margin-top: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        .software-links img {
+            width: 24px;
+            height: 24px;
         }
         .download-link {
             background-color: green;
             color: white;
             padding: 15px;
             margin: 10px;
-            display: block;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             text-decoration: none;
             font-size: 18px;
             border-radius: 5px;
@@ -70,9 +70,14 @@
             max-width: 400px;
             margin-left: auto;
             margin-right: auto;
+            gap: 10px;
         }
         .download-link:hover {
             background-color: darkgreen;
+        }
+        .download-link img {
+            width: 30px;
+            height: 30px;
         }
     </style>
 </head>
@@ -93,25 +98,41 @@
         فقط قبلش برنامه اون ساب روی گوشیت نصب باشه
     </div>
 
-    <div class="sublink">Hiddify Sublink - پنل هیدیفای</div>
-    <div class="sublink">Streisand Sublink IOS - کانفیگ استریسند</div>
-
-    <div class="software-links">- لینک دانلود نرم افزار -</div>
+    <!-- لینک دانلود برنامه‌های اندروید -->
+    <div class="software-links">
+        <img src="URL_TO_ANDROID_LOGO" alt="Android Logo">
+        لینک دانلود برنامه‌های اندروید
+    </div>
 
     <a class="download-link" href="https://sinavm.github.io/Hiddify/">
-        Hiddify Sublink - پنل هیدیفای
+        <img src="URL_TO_SING_BOX_LOGO" alt="Sing-Box Logo">
+        دانلود برنامه سینگ باکس Sing-Box
     </a>
 
     <a class="download-link" href="https://github.com/hiddify/hiddify-app/releases/tag/v2.0.5">
-        Hiddify App Page - صفحه دانلود نرم افزار هیدیفای اندروید و ویندوز
+        <img src="URL_TO_HIDDIFY_LOGO" alt="Hiddify Logo">
+        دانلود برنامه هیدیفای Hiddify
     </a>
 
+    <a class="download-link" href="https://github.com/2dust/v2rayNG/releases">
+        <img src="URL_TO_V2RAY_LOGO" alt="V2Ray Logo">
+        دانلود برنامه V2Ray
+    </a>
+
+    <!-- لینک دانلود برنامه‌های آیفون -->
+    <div class="software-links">
+        <img src="URL_TO_IOS_LOGO" alt="iOS Logo">
+        لینک دانلود برنامه‌های آیفون
+    </div>
+
     <a class="download-link" href="https://apps.apple.com/app/id6450534064">
-        Hiddify App Page - صفحه دانلود نرم افزار هیدیفای آیفون
+        <img src="URL_TO_HIDDIFY_LOGO" alt="Hiddify Logo">
+        دانلود برنامه هیدیفای Hiddify
     </a>
 
     <a class="download-link" href="https://apps.apple.com/app/id6596777532">
-        Streisand App Page - صفحه دانلود نرم افزار استریسند
+        <img src="URL_TO_STREISAND_LOGO" alt="Streisand Logo">
+        دانلود برنامه استریسند Streisand
     </a>
 
 </body>

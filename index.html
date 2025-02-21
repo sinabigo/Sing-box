@@ -181,9 +181,9 @@
     <script>
         // درخواست به Worker برای دریافت تعداد بازدید کل
         async function getTotalVisits() {
-            const response = await fetch('https://sinavm-visit-count.sinabb29.workers.dev'); // آدرس Worker خود را وارد کنید
-            const data = await response.text();
-            document.getElementById("total-visit-count").innerText = data.trim(); // نمایش تعداد بازدید کل
+            const response = await fetch('https://sinavm-visit-count.sinabb29.workers.dev');  // آدرس Worker خود را وارد کنید
+            const data = await response.json(); // دریافت داده‌ها به صورت JSON
+            document.getElementById("total-visit-count").innerText = data.totalVisits || 'بارگیری...'; // نمایش تعداد بازدید
         }
 
         // بررسی مقدار ذخیره‌شده در localStorage برای بازدید کاربر

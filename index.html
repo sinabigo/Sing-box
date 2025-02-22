@@ -263,7 +263,7 @@ localStorage.setItem("visitCount", visits); // ذخیره مقدار جدید
 document.getElementById("user-visit-count").innerText = visits; // نمایش تعداد بازدیدها
 
 // مقدار اولیه بازدید کل (میتونی مقدار اولیه رو تغییر بدی)
-let totalVisits = localStorage.getItem("totalVisitCount") || 2300; 
+let totalVisits = localStorage.getItem("totalVisitCount") || 4360; 
 document.getElementById("total-visit-count").innerText = totalVisits;
 
 // تابع افزایش بازدید کل هر دو دقیقه
@@ -273,8 +273,8 @@ function increaseTotalVisits() {
     document.getElementById("total-visit-count").innerText = totalVisits; // نمایش مقدار جدید
 }
 
-// تنظیم تایمر برای افزایش بازدید هر ۲ دقیقه (۱۲۰۰۰۰ میلی‌ثانیه)
-setInterval(increaseTotalVisits, 120000);
+// تنظیم تایمر برای افزایش بازدید ١ دقیقه (۶٠٠٠۰ میلی‌ثانیه)
+setInterval(increaseTotalVisits, 60000);
 </script>
 
 </body>

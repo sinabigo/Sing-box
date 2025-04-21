@@ -193,7 +193,7 @@
       "server_port": 443,
       "obfs": {
         "type": "salamander",
-        "password": "SiNAVM-SiNAVM-SiNAVM-@SiNAVM-@SiNAVM"
+        "password": "@SiNAVM-SiNAVM-SiNAVM-@SiNAVM-@SiNAVM"
       },
       "password": "Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM",
       "tls": {

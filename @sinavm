@@ -122,64 +122,74 @@
       "type": "urltest",
       "tag": "T.me/SiNAVM 👈🏻تلگرام ",
       "outbounds": [
-        "🇩🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
+        "🇺🇸@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
         "🇨🇾@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
         "🇳🇱@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
         "👉🏻@Kevin",
         "👉🏻@azadi_az_inja_migzare",
-        "👉🏻@Ln2Ray",
-        "🇧🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
-        "𝐒𝐕𝐌 | 👉🏻@SiNAVM",
-        "👉🏻@JavidnamanIran",
+        "👉🏻@azadi_az_inja_migzare-IPv6",
         "👉🏻@𝗦𝗶𝗡𝗔𝗩𝗠",
-        "🇺🇸@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-        "🇨🇦@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-        "🇩🇪@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-        "🇪🇸@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
+        "👉🏻@𝗦𝗶𝗡𝗔𝗩𝗠-IPv6",
+        "👉🏻@Ln2Ray",
+        "👉🏻@Ln2Ray-IPv6",
+        "👉🏻@SiNAVM",
+        "👉🏻@SiNAVM-IPv6",
+        "👉🏻@JavidnamanIran",
+        "👉🏻@JavidnamanIran-IPv6",
+        "𝐒𝐕𝐌 | 👉🏻@𝗦𝗶𝗡𝗔𝗩𝗠",
+        "🇩🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
+        "👉🏻@𝐒𝐢𝐍𝐀𝐕𝐌",
+        "👉🏻@𝐒𝐢𝐍𝐀𝐕𝐌-IPv6",
         "🇫🇮@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
         "🇫🇷@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-        "🇮🇹@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-        "🇳🇵@SiNAVM👈🏻کانفیگ رایگان ",
-        "🇬🇧@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام",
-        "🇧🇾@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام",
         "🇵🇷@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-        "🇩🇪@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی"
+        "🇹🇷@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻",
+        "🇺🇸@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻",
+        "🇫🇮@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻",
+        "🇩🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻"
       ],
       "url": "http://1.1.1.1/",
-      "interval": "3m0s"
+      "interval": "3m0s",
+      "tolerance": 50,
+      "idle_timeout": "9m0s"
     },
     {
       "type": "urltest",
       "tag": "🏎️ Hysteria",
       "outbounds": [
-        "🇩🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
+        "🇺🇸@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
         "🇨🇾@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
         "🇳🇱@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
         "👉🏻@Kevin",
         "👉🏻@azadi_az_inja_migzare",
+        "👉🏻@azadi_az_inja_migzare-IPv6",
+        "👉🏻@𝗦𝗶𝗡𝗔𝗩𝗠",
+        "👉🏻@𝗦𝗶𝗡𝗔𝗩𝗠-IPv6",
         "👉🏻@Ln2Ray",
-        "🇧🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
-        "𝐒𝐕𝐌 | 👉🏻@SiNAVM",
+        "👉🏻@Ln2Ray-IPv6",
+        "👉🏻@SiNAVM",
+        "👉🏻@SiNAVM-IPv6",
         "👉🏻@JavidnamanIran",
-        "👉🏻@𝗦𝗶𝗡𝗔𝗩𝗠"
+        "👉🏻@JavidnamanIran-IPv6",
+        "𝐒𝐕𝐌 | 👉🏻@𝗦𝗶𝗡𝗔𝗩𝗠",
+        "🇩🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
+        "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
+        "👉🏻@𝐒𝐢𝐍𝐀𝐕𝐌",
+        "👉🏻@𝐒𝐢𝐍𝐀𝐕𝐌-IPv6"
       ]
     },
     {
       "type": "urltest",
       "tag": "☄️Vless",
       "outbounds": [
-        "🇺🇸@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-        "🇨🇦@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-        "🇩🇪@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-        "🇪🇸@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
         "🇫🇮@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
         "🇫🇷@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-        "🇮🇹@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-        "🇳🇵@SiNAVM👈🏻کانفیگ رایگان ",
-        "🇬🇧@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام",
-        "🇧🇾@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام",
         "🇵🇷@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-        "🇩🇪@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی"
+        "🇹🇷@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻",
+        "🇺🇸@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻",
+        "🇫🇮@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻",
+        "🇩🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻"
       ]
     },
     {
@@ -187,8 +197,66 @@
       "tag": "direct"
     },
     {
+      "type": "shadowsocks",
+      "tag": "🇸🇪@𝗦𝗶𝗡𝗔𝗩𝗠-SS",
+      "server": "drhystuichdfy.samanidempire.org",
+      "server_port": 33710,
+      "method": "2022-blake3-aes-256-gcm",
+      "password": "MjFjNzE0NzRjZjU1NGJlOGE3NmI0OWZlMDA2OTdjOTA=:ODA3NDc0MjA5NmM0NGEyZjgzZTZlZWE0ZTQ2YmViMDk=",
+      "udp_over_tcp": true
+    },
+    {
+      "type": "tuic",
+      "tag": "🇸🇪@𝗦𝗶𝗡𝗔𝗩𝗠-TUIC",
+      "server": "drhystuichdfy.samanidempire.org",
+      "server_port": 41053,
+      "uuid": "80747420-96c4-4a2f-83e6-eea4e46beb09",
+      "password": "80747420-96c4-4a2f-83e6-eea4e46beb09",
+      "congestion_control": "cubic",
+      "udp_relay_mode": "native",
+      "zero_rtt_handshake": true,
+      "heartbeat": "10s",
+      "tls": {
+        "enabled": true,
+        "server_name": "drhystuichdfy.samanidempire.org",
+        "alpn": "h3"
+      }
+    },
+    {
       "type": "hysteria2",
-      "tag": "🇩🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
+      "tag": "🇸🇪@𝗦𝗶𝗡𝗔𝗩𝗠-Hy2",
+      "server": "rplcehysttya6.airlineshoma.com",
+      "server_port": 443,
+      "obfs": {
+        "type": "salamander",
+        "password": "6c80ade6"
+      },
+      "password": "37ff019f4a35e6da",
+      "tls": {
+        "enabled": true,
+        "server_name": "rplcehysttya6.airlineshoma.com",
+        "alpn": "h3,h2,http/1.1"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇸🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
+      "server": "drhystuichdfy.samanidempire.org",
+      "server_port": 20335,
+      "obfs": {
+        "type": "salamander",
+        "password": "U1wBrYQyFm"
+      },
+      "password": "80747420-96c4-4a2f-83e6-eea4e46beb09",
+      "tls": {
+        "enabled": true,
+        "server_name": "drhystuichdfy.samanidempire.org",
+        "alpn": "h3"
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "🇺🇸@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
       "server": "sinavm.soft10.ir",
       "server_port": 443,
       "obfs": {
@@ -240,17 +308,66 @@
       }
     },
     {
-      "type": "hysteria2",
-      "tag": "🇳🇱@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
-      "server": "sinavm.sinabigo.ir",
-      "server_port": 443,
       "obfs": {
-        "type": "salamander",
-        "password": "Bia-SiNAVM-Telegram-SiNAVM-@SiNAVM-SiNAVM"
+        "password": "Bia-SiNAVM-Telegram-SiNAVM-Channel@SiNAVM",
+        "type": "salamander"
       },
       "password": "Bia-SiNAVM-SiNAVM-SiNAVM-SiNAVM",
+      "server": "sinavm.sinabigo.ir",
+      "server_port": 443,
+      "tag": "🇳🇱@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
+      "tls": {
+        "alpn": [
+          "h3"
+        ],
+        "ech": {
+          "config": [
+            "-----BEGIN ECH CONFIGS-----",
+            "ADn+DQA1AAAgACAXlSZO7YjDmS1TcuZXppHFyfpDzJiUlWx/H7tGmdC5CQAIAAEA",
+            "AQABAAMAAicnAAA=",
+            "-----END ECH CONFIGS-----"
+          ],
+          "dynamic_record_sizing_disabled": null,
+          "enabled": true,
+          "pq_signature_schemes_enabled": false
+        },
+        "enabled": true,
+        "max_version": "1.3",
+        "min_version": "1.3"
+      },
+      "type": "hysteria2"
+    },
+    {
+      "obfs": {
+        "password": "KevinZakarian",
+        "type": "salamander"
+      },
+      "password": "KevinZakarian",
+      "server": "kevin.iserver.store",
+      "server_port": 8443,
+      "tag": "👉🏻@Kevin",
       "tls": {
         "enabled": true,
+        "insecure": true
+      },
+      "type": "hysteria2"
+    },
+    {
+      "type": "hysteria2",
+      "tag": "👉🏻@azadi_az_inja_migzare",
+      "domain_strategy": "ipv4_only",
+      "server": "YAPC-1.adamhayward.co.uk",
+      "server_port": 0,
+      "server_ports": "35000:45000",
+      "hop_interval": "3m30s",
+      "obfs": {
+        "type": "salamander",
+        "password": "Yet-Another-Public-Config-1"
+      },
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
         "alpn": "h3",
         "min_version": "1.3",
         "max_version": "1.3",
@@ -258,8 +375,8 @@
           "enabled": true,
           "config": [
             "-----BEGIN ECH CONFIGS-----",
-            "ADn+DQA1AAAgACAXlSZO7YjDmS1TcuZXppHFyfpDzJiUlWx/H7tGmdC5CQAIAAEA",
-            "AQABAAMAAicnAAA=",
+            "AFf+DQBTAAAgACAFoxGSyE0q9rP5MpxnApUbq9Oc4a35tfrjQ9wXEKboKwAIAAEA",
+            "AQABAAMAIFstLXBxLXNpZ25hdHVyZS1zY2hlbWVzLWVuYWJsZWRdAAA=",
             "-----END ECH CONFIGS-----"
           ]
         }
@@ -267,27 +384,72 @@
     },
     {
       "type": "hysteria2",
-      "tag": "👉🏻@Kevin",
-      "server": "keviny.iserver.store",
-      "server_port": 8443,
+      "tag": "👉🏻@azadi_az_inja_migzare-IPv6",
+      "domain_strategy": "ipv6_only",
+      "server": "YAPC-1.adamhayward.co.uk",
+      "server_port": 0,
+      "server_ports": "35000:45000",
+      "hop_interval": "3m30s",
       "obfs": {
         "type": "salamander",
-        "password": "KevinZakarian"
+        "password": "Yet-Another-Public-Config-1"
       },
-      "password": "KevinZakarian",
+      "password": "Yet-Another-Public-Config-1",
       "tls": {
         "enabled": true,
-        "insecure": true
+        "server_name": "YAPC-1.afshin.ir",
+        "alpn": "h3",
+        "min_version": "1.3",
+        "max_version": "1.3",
+        "ech": {
+          "enabled": true,
+          "config": [
+            "-----BEGIN ECH CONFIGS-----",
+            "AFf+DQBTAAAgACAFoxGSyE0q9rP5MpxnApUbq9Oc4a35tfrjQ9wXEKboKwAIAAEA",
+            "AQABAAMAIFstLXBxLXNpZ25hdHVyZS1zY2hlbWVzLWVuYWJsZWRdAAA=",
+            "-----END ECH CONFIGS-----"
+          ]
+        }
       }
     },
     {
       "type": "hysteria2",
-      "tag": "👉🏻@azadi_az_inja_migzare",
-      "domain_strategy": "ipv6_only",
-      "server": "YAPC-1.afshin.ir",
+      "tag": "👉🏻@𝗦𝗶𝗡𝗔𝗩𝗠",
+      "domain_strategy": "ipv4_only",
+      "server": "YAPC-2.adamhayward.co.uk",
       "server_port": 0,
       "server_ports": "35000:45000",
-      "hop_interval": "10s",
+      "hop_interval": "3m30s",
+      "obfs": {
+        "type": "salamander",
+        "password": "Yet-Another-Public-Config-1"
+      },
+      "password": "Yet-Another-Public-Config-1",
+      "tls": {
+        "enabled": true,
+        "server_name": "YAPC-1.afshin.ir",
+        "alpn": "h3",
+        "min_version": "1.3",
+        "max_version": "1.3",
+        "ech": {
+          "enabled": true,
+          "config": [
+            "-----BEGIN ECH CONFIGS-----",
+            "AFf+DQBTAAAgACAFoxGSyE0q9rP5MpxnApUbq9Oc4a35tfrjQ9wXEKboKwAIAAEA",
+            "AQABAAMAIFstLXBxLXNpZ25hdHVyZS1zY2hlbWVzLWVuYWJsZWRdAAA=",
+            "-----END ECH CONFIGS-----"
+          ]
+        }
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "👉🏻@𝗦𝗶𝗡𝗔𝗩𝗠-IPv6",
+      "domain_strategy": "ipv6_only",
+      "server": "YAPC-2.adamhayward.co.uk",
+      "server_port": 0,
+      "server_ports": "35000:45000",
+      "hop_interval": "3m30s",
       "obfs": {
         "type": "salamander",
         "password": "Yet-Another-Public-Config-1"
@@ -317,7 +479,7 @@
       "server": "gavazn.88981401.xyz",
       "server_port": 0,
       "server_ports": "45000:50000",
-      "hop_interval": "10s",
+      "hop_interval": "3m30s",
       "obfs": {
         "type": "salamander",
         "password": "Telegram--\u003e@Ln2Ray"
@@ -341,12 +503,12 @@
     },
     {
       "type": "hysteria2",
-      "tag": "🇧🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
+      "tag": "👉🏻@Ln2Ray-IPv6",
       "domain_strategy": "ipv6_only",
       "server": "gavazn.88981401.xyz",
       "server_port": 0,
       "server_ports": "45000:50000",
-      "hop_interval": "10s",
+      "hop_interval": "3m30s",
       "obfs": {
         "type": "salamander",
         "password": "Telegram--\u003e@Ln2Ray"
@@ -370,28 +532,59 @@
     },
     {
       "type": "hysteria2",
-      "tag": "𝐒𝐕𝐌 | 👉🏻@SiNAVM",
-      "domain_strategy": "ipv6_only",
-      "server": "gavazn.88981401.xyz",
+      "tag": "👉🏻@SiNAVM",
+      "domain_strategy": "ipv4_only",
+      "server": "JNIR-1.pichondan.com",
       "server_port": 0,
-      "server_ports": "45000:50000",
-      "hop_interval": "10s",
+      "server_ports": "35000:45000",
+      "hop_interval": "3m30s",
       "obfs": {
         "type": "salamander",
-        "password": "Telegram--\u003e@Ln2Ray"
+        "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
       },
-      "password": "Telegram--\u003e@Ln2Ray",
+      "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi",
       "tls": {
         "enabled": true,
-        "server_name": "gavazn.55994421.xyz",
+        "server_name": "pichondan.com",
         "alpn": "h3",
         "min_version": "1.3",
+        "max_version": "1.3",
         "ech": {
           "enabled": true,
           "config": [
             "-----BEGIN ECH CONFIGS-----",
-            "AFf+DQBTAAAgACCHum87zr0DkKT8MYy8ForJLe0rEB5IOHMY5KlV60TeRQAIAAEA",
-            "AQABAAMAIFstLXBxLXNpZ25hdHVyZS1zY2hlbWVzLWVuYWJsZWRdAAA=",
+            "AEv+DQBHAAAgACBdESPqW7Qg/mDy4xXQg7m3zPFrxI5Ba5zro2ZMqOjQFQAIAAEA",
+            "AQABAAMAFGpuaXItMS5waWNob25kYW4uY29tAAA=",
+            "-----END ECH CONFIGS-----"
+          ]
+        }
+      }
+    },
+    {
+      "type": "hysteria2",
+      "tag": "👉🏻@SiNAVM-IPv6",
+      "domain_strategy": "ipv6_only",
+      "server": "JNIR-1.pichondan.com",
+      "server_port": 0,
+      "server_ports": "35000:45000",
+      "hop_interval": "3m30s",
+      "obfs": {
+        "type": "salamander",
+        "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+      },
+      "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi",
+      "tls": {
+        "enabled": true,
+        "server_name": "pichondan.com",
+        "alpn": "h3",
+        "min_version": "1.3",
+        "max_version": "1.3",
+        "ech": {
+          "enabled": true,
+          "config": [
+            "-----BEGIN ECH CONFIGS-----",
+            "AEv+DQBHAAAgACBdESPqW7Qg/mDy4xXQg7m3zPFrxI5Ba5zro2ZMqOjQFQAIAAEA",
+            "AQABAAMAFGpuaXItMS5waWNob25kYW4uY29tAAA=",
             "-----END ECH CONFIGS-----"
           ]
         }
@@ -401,18 +594,18 @@
       "type": "hysteria2",
       "tag": "👉🏻@JavidnamanIran",
       "domain_strategy": "ipv4_only",
-      "server": "yapc-1.adamhayward.co.uk",
+      "server": "JNIR-2.pichondan.com",
       "server_port": 0,
       "server_ports": "35000:45000",
-      "hop_interval": "10s",
+      "hop_interval": "3m30s",
       "obfs": {
         "type": "salamander",
-        "password": "@JavidnamanIran"
+        "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
       },
-      "password": "@JavidnamanIran",
+      "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi",
       "tls": {
         "enabled": true,
-        "server_name": "yapc-1.adamhayward.co.uk",
+        "server_name": "pichondan.com",
         "alpn": "h3",
         "min_version": "1.3",
         "max_version": "1.3",
@@ -420,8 +613,8 @@
           "enabled": true,
           "config": [
             "-----BEGIN ECH CONFIGS-----",
-            "AFf+DQBTAAAgACAFoxGSyE0q9rP5MpxnApUbq9Oc4a35tfrjQ9wXEKboKwAIAAEA",
-            "AQABAAMAIFstLXBxLXNpZ25hdHVyZS1zY2hlbWVzLWVuYWJsZWRdAAA=",
+            "AEv+DQBHAAAgACBdESPqW7Qg/mDy4xXQg7m3zPFrxI5Ba5zro2ZMqOjQFQAIAAEA",
+            "AQABAAMAFGpuaXItMS5waWNob25kYW4uY29tAAA=",
             "-----END ECH CONFIGS-----"
           ]
         }
@@ -429,20 +622,20 @@
     },
     {
       "type": "hysteria2",
-      "tag": "👉🏻@𝗦𝗶𝗡𝗔𝗩𝗠",
+      "tag": "👉🏻@JavidnamanIran-IPv6",
       "domain_strategy": "ipv6_only",
-      "server": "yapc-1.adamhayward.co.uk",
+      "server": "JNIR-2.pichondan.com",
       "server_port": 0,
       "server_ports": "35000:45000",
-      "hop_interval": "10s",
+      "hop_interval": "3m30s",
       "obfs": {
         "type": "salamander",
-        "password": "@JavidnamanIran"
+        "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
       },
-      "password": "@JavidnamanIran",
+      "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi",
       "tls": {
         "enabled": true,
-        "server_name": "yapc-1.adamhayward.co.uk",
+        "server_name": "pichondan.com",
         "alpn": "h3",
         "min_version": "1.3",
         "max_version": "1.3",
@@ -450,132 +643,165 @@
           "enabled": true,
           "config": [
             "-----BEGIN ECH CONFIGS-----",
-            "AFf+DQBTAAAgACAFoxGSyE0q9rP5MpxnApUbq9Oc4a35tfrjQ9wXEKboKwAIAAEA",
-            "AQABAAMAIFstLXBxLXNpZ25hdHVyZS1zY2hlbWVzLWVuYWJsZWRdAAA=",
+            "AEv+DQBHAAAgACBdESPqW7Qg/mDy4xXQg7m3zPFrxI5Ba5zro2ZMqOjQFQAIAAEA",
+            "AQABAAMAFGpuaXItMS5waWNob25kYW4uY29tAAA=",
             "-----END ECH CONFIGS-----"
           ]
         }
       }
     },
     {
-      "type": "vless",
-      "tag": "SiNAVM-germany-fast",
-      "domain_strategy": "ipv6_only",
-      "server": "all-v6.cybsecguru.com",
-      "server_port": 44441,
-      "uuid": "ec8a65ad-aafc-4095-9b8c-ea10890ca629",
+      "type": "hysteria2",
+      "tag": "𝐒𝐕𝐌 | 👉🏻@𝗦𝗶𝗡𝗔𝗩𝗠",
+      "domain_strategy": "ipv4_only",
+      "server": "JNIR-3.pichondan.com",
+      "server_port": 0,
+      "server_ports": "35000:45000",
+      "hop_interval": "3m30s",
+      "obfs": {
+        "type": "salamander",
+        "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+      },
+      "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi",
       "tls": {
         "enabled": true,
-        "server_name": "tile.openstreetmap.org",
+        "server_name": "pichondan.com",
+        "alpn": "h3",
         "min_version": "1.3",
         "max_version": "1.3",
-        "utls": {
+        "ech": {
           "enabled": true,
-          "fingerprint": "chrome"
-        },
-        "reality": {
-          "enabled": true,
-          "public_key": "h-tx4d8yBKf5Cevu1bPJZwrSxT3kCkaMESHBIofaalo",
-          "short_id": "be4243"
+          "config": [
+            "-----BEGIN ECH CONFIGS-----",
+            "AEv+DQBHAAAgACBdESPqW7Qg/mDy4xXQg7m3zPFrxI5Ba5zro2ZMqOjQFQAIAAEA",
+            "AQABAAMAFGpuaXItMS5waWNob25kYW4uY29tAAA=",
+            "-----END ECH CONFIGS-----"
+          ]
         }
-      },
-      "packet_encoding": "xudp"
+      }
     },
     {
-      "type": "vless",
-      "tag": "🇺🇸@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-      "server": "cdnjs.com",
-      "server_port": 443,
-      "uuid": "15298f41-e80b-463a-b85b-0c903258a1c8",
+      "type": "hysteria2",
+      "tag": "🇩🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
+      "domain_strategy": "ipv6_only",
+      "server": "JNIR-3.pichondan.com",
+      "server_port": 0,
+      "server_ports": "35000:45000",
+      "hop_interval": "3m30s",
+      "obfs": {
+        "type": "salamander",
+        "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+      },
+      "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi",
       "tls": {
         "enabled": true,
-        "server_name": "d1.medicaltreatment.ir",
-        "insecure": true,
-        "utls": {
+        "server_name": "pichondan.com",
+        "alpn": "h3",
+        "min_version": "1.3",
+        "max_version": "1.3",
+        "ech": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "config": [
+            "-----BEGIN ECH CONFIGS-----",
+            "AEv+DQBHAAAgACBdESPqW7Qg/mDy4xXQg7m3zPFrxI5Ba5zro2ZMqOjQFQAIAAEA",
+            "AQABAAMAFGpuaXItMS5waWNob25kYW4uY29tAAA=",
+            "-----END ECH CONFIGS-----"
+          ]
         }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "d1.medicaltreatment.ir"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
+      }
     },
+
     {
-      "type": "vless",
-      "tag": "🇨🇦@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-      "server": "www.speedtest.net",
-      "server_port": 80,
-      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
-      "transport": {
-        "type": "ws",
-        "path": "/6w4dLVu3EA6JZFJi",
-        "headers": {
-          "Host": "redfree8.redorg1.ir"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
+      "type": "hysteria2",
+      "tag": "🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠👈تلگرام",
+      "domain_strategy": "ipv6_only",
+      "server": "JNIR-4.pichondan.com",
+      "server_port": 0,
+      "server_ports": "35000:45000",
+      "hop_interval": "3m30s",
+      "obfs": {
+        "type": "salamander",
+        "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
       },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "🇩🇪@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-      "server": "fonts.net",
-      "server_port": 443,
-      "uuid": "15298f41-e80b-463a-b85b-0c903258a1c8",
+      "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi",
       "tls": {
         "enabled": true,
-        "server_name": "d5.medicaltreatment.ir",
-        "insecure": true,
-        "utls": {
+        "server_name": "pichondan.com",
+        "alpn": "h3",
+        "min_version": "1.3",
+        "max_version": "1.3",
+        "ech": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "config": [
+            "-----BEGIN ECH CONFIGS-----",
+            "AEv+DQBHAAAgACBdESPqW7Qg/mDy4xXQg7m3zPFrxI5Ba5zro2ZMqOjQFQAIAAEA",
+            "AQABAAMAFGpuaXItMS5waWNob25kYW4uY29tAAA=",
+            "-----END ECH CONFIGS-----"
+          ]
         }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "d5.medicaltreatment.ir"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
+      }
     },
     {
-      "type": "vless",
-      "tag": "🇪🇸@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-      "server": "fonts.net",
-      "server_port": 443,
-      "uuid": "102e5f34-1913-4dd3-a1f2-f831d891a490",
+      "type": "hysteria2",
+      "tag": "👉🏻@𝐒𝐢𝐍𝐀𝐕𝐌",
+      "domain_strategy": "ipv4_only",
+      "server": "JNIR-5.pichondan.com",
+      "server_port": 0,
+      "server_ports": "35000:45000",
+      "hop_interval": "3m30s",
+      "obfs": {
+        "type": "salamander",
+        "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+      },
+      "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi",
       "tls": {
         "enabled": true,
-        "server_name": "d1.traneh.dpdns.org",
-        "insecure": true,
-        "utls": {
+        "server_name": "pichondan.com",
+        "alpn": "h3",
+        "min_version": "1.3",
+        "max_version": "1.3",
+        "ech": {
           "enabled": true,
-          "fingerprint": "chrome"
+          "config": [
+            "-----BEGIN ECH CONFIGS-----",
+            "AEv+DQBHAAAgACBdESPqW7Qg/mDy4xXQg7m3zPFrxI5Ba5zro2ZMqOjQFQAIAAEA",
+            "AQABAAMAFGpuaXItMS5waWNob25kYW4uY29tAAA=",
+            "-----END ECH CONFIGS-----"
+          ]
         }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "d1.traneh.dpdns.org"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
+      }
     },
+    {
+      "type": "hysteria2",
+      "tag": "👉🏻@𝐒𝐢𝐍𝐀𝐕𝐌-IPv6",
+      "domain_strategy": "ipv6_only",
+      "server": "JNIR-5.pichondan.com",
+      "server_port": 0,
+      "server_ports": "35000:45000",
+      "hop_interval": "3m30s",
+      "obfs": {
+        "type": "salamander",
+        "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+      },
+      "password": "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi",
+      "tls": {
+        "enabled": true,
+        "server_name": "pichondan.com",
+        "alpn": "h3",
+        "min_version": "1.3",
+        "max_version": "1.3",
+        "ech": {
+          "enabled": true,
+          "config": [
+            "-----BEGIN ECH CONFIGS-----",
+            "AEv+DQBHAAAgACBdESPqW7Qg/mDy4xXQg7m3zPFrxI5Ba5zro2ZMqOjQFQAIAAEA",
+            "AQABAAMAFGpuaXItMS5waWNob25kYW4uY29tAAA=",
+            "-----END ECH CONFIGS-----"
+          ]
+        }
+      }
+    },
+
     {
       "type": "vless",
       "tag": "🇫🇮@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
@@ -630,110 +856,6 @@
     },
     {
       "type": "vless",
-      "tag": "🇮🇹@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
-      "server": "g2.com",
-      "server_port": 443,
-      "uuid": "15298f41-e80b-463a-b85b-0c903258a1c8",
-      "tls": {
-        "enabled": true,
-        "server_name": "d2.medicaltreatment.ir",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "d2.medicaltreatment.ir"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "🇳🇵@SiNAVM👈🏻کانفیگ رایگان ",
-      "server": "zula.ir",
-      "server_port": 443,
-      "uuid": "ccff34b1-44fd-478d-bc0e-5111cb11f5be",
-      "tls": {
-        "enabled": true,
-        "server_name": "d5.medicaldream.ir",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "d5.medicaldream.ir"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "🇬🇧@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام",
-      "server": "ns4.cloudflare.com",
-      "server_port": 443,
-      "uuid": "ccff34b1-44fd-478d-bc0e-5111cb11f5be",
-      "tls": {
-        "enabled": true,
-        "server_name": "d2.medicaldream.ir",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "d2.medicaldream.ir"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
-      "tag": "🇧🇾@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام",
-      "server": "sourceforge.net",
-      "server_port": 443,
-      "uuid": "ccff34b1-44fd-478d-bc0e-5111cb11f5be",
-      "tls": {
-        "enabled": true,
-        "server_name": "d1.medicaldream.ir",
-        "insecure": true,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/",
-        "headers": {
-          "Host": "d1.medicaldream.ir"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "vless",
       "tag": "🇵🇷@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام ",
       "server": "zula.ir",
       "server_port": 443,
@@ -760,26 +882,54 @@
     },
     {
       "type": "vless",
-      "tag": "🇩🇪@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی",
-      "server": "172.67.177.95",
-      "server_port": 443,
-      "uuid": "53fa8faf-ba4b-4322-9c69-a3e5b1555049",
-      "tls": {
-        "enabled": true,
-        "server_name": "REEdfREe8MahSaNg2.rEDOrG.IR",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "randomized"
-        }
-      },
+      "tag": "🇹🇷@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻",
+      "server": "176.223.66.8",
+      "server_port": 39948,
+      "uuid": "2558c819-1363-4859-8fb9-f8cb104d49d2",
       "transport": {
-        "type": "ws",
-        "path": "/4XCmBR3dvCCVyhEl",
-        "headers": {
-          "Host": "REEdfREe8MahSaNg2.rEDOrG.IR"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
+        "type": "http",
+        "host": "divarcdn.com",
+        "path": "/",
+        "method": "GET"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇺🇸@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻",
+      "server": "45.82.251.167",
+      "server_port": 8880,
+      "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇫🇮@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻",
+      "server": "157.180.80.139",
+      "server_port": 8880,
+      "uuid": "5a76615b-10e1-46f7-d521-17662f3c7287",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
+      },
+      "packet_encoding": "xudp"
+    },
+    {
+      "type": "vless",
+      "tag": "🇩🇪@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻",
+      "server": "91.107.253.168",
+      "server_port": 8880,
+      "uuid": "e607e472-cee3-4ea7-c731-4a041a961a05",
+      "transport": {
+        "type": "grpc",
+        "idle_timeout": "15s",
+        "ping_timeout": "15s"
       },
       "packet_encoding": "xudp"
     },

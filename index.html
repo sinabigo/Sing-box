@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="refresh" content="0; url=sing-box://import-remote-profile?url=https://raw.githubusercontent.com/sinabigo/Sing-box/refs/heads/main/@sinavm#3️⃣@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻کانال تلگرام"/>
+    <title>پنل کانال تلگرامی SiNAVM</title>
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap');
+
+        body {
+            text-align: center;
+            font-family: 'Vazirmatn', Arial, sans-serif;
+            direction: rtl;
+            background: linear-gradient(135deg, #1e3c72, #2a5298);
+            color: #fff;
+            margin: 0;
+            padding: 20px;
+        }
+
+
+        .header-container {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        
+        .logo {
+            max-width: 80px;
+            margin-left: 10px;
+            border-radius: 50%;
+            border: 3px solid #fff;
+            box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.3);
+        }
+
+        .header {
+            font-size: 26px;
+            font-weight: bold;
+            color: #fff;
+        }
+
+        .header a {
+            text-decoration: none;
+            color: #ffcc00;
+        }
+
+        .header a:hover {
+            text-decoration: underline;
+            color: #ffd700;
+        }
+
+
+        .redirect-link {
+            font-size: 24px;
+            font-weight: bold;
+            color: #00d9ff;
+            text-decoration: none;
+            transition: 0.3s;
+            display: block;
+            margin-bottom: 20px;
+        }
+        
+        .redirect-link:hover {
+            color: #ffffff;
+            text-shadow: 0 0 15px rgba(0, 217, 255, 0.8);
+        }
+
+        .left-container {
+            position: fixed;
+            bottom: 10px;
+            left: 10px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .telegram-box {
+            background: #0088cc;
+            color: white;
+            padding: 10px;
+            border-radius: 10px;
+            font-size: 14px;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 120px;
+            text-decoration: none;
+            box-shadow: 0px 4px 10px rgba(0, 136, 204, 0.5);
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .telegram-box:hover {
+            transform: scale(1.1);
+            box-shadow: 0px 6px 15px rgba(0, 136, 204, 0.8);
+        }
+
+        .telegram-box img {
+            width: 20px;
+            height: 20px;
+            margin-left: 5px;
+        }
+
+        .visit-box {
+            background: rgba(0, 0, 0, 0.5);
+            color: white;
+            padding: 6px 10px;
+            border-radius: 5px;
+            font-size: 14px;
+            font-weight: bold;
+            text-align: center;
+            width: 120px;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="header-container">
+        <img class="logo" src="https://github.com/sinavm/sinavm/raw/refs/heads/main/IMG_7428.jpeg" alt="Logo">
+        <div class="header">
+            پنل   
+            <a href="https://T.me/sinavm" target="_blank">سینگ باکس ٣</a>
+        </div>
+    </div>
+
+    <h1>در حال انتقال کانفیگ ...</h1>
+    <p>اگر انتقال خودکار انجام نشد، روی لینک زیر کلیک کنید:</p>
+    
+    <a class="redirect-link" href="sing-box://import-remote-profile?url=https://raw.githubusercontent.com/sinabigo/Sing-box/refs/heads/main/@sinavm#3️⃣@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻کانال تلگرام">
+        ورود به پروفایل Sing-Box
+    </a>
+
+    <div class="software-links">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" width="24">
+        <a href="https://T.me/SinaVM" style="text-decoration: none; color: #0088cc;">کانال تلگرام رو دنبال کن</a>
+    </div>
+    
+    <div class="left-container">
+        <a class="telegram-box" href="https://T.me/sinavm" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Telegram Logo">
+            کانال تلگرام
+        </a>
+
+        <div class="visit-box">
+            بازدید شما: <span id="user-visit-count">0</span>
+        </div>
+        <div class="visit-box">
+            بازدید کل: <span id="total-visit-count">...</span>
+        </div>
+    </div>
+
+    <script>
+        let visits = localStorage.getItem("visitCount") || 0;
+        visits++;
+        localStorage.setItem("visitCount", visits);
+        document.getElementById("user-visit-count").innerText = visits;
+
+        // دریافت تعداد کل بازدیدها از سرور خارجی
+        fetch('https://page-views.count1.workers.dev')
+            .then(response => response.text())
+            .then(data => {
+                let countElement = document.getElementById("total-visit-count");
+                if (countElement) {
+                    countElement.innerText = data;
+                } else {
+                    console.error("Error updating total visit count.");
+                }
+            })
+            .catch(error => {
+                console.error("Error fetching total visit count:", error);
+            });
+    </script>
+
+</body>
+</html>

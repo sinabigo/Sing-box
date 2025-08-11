@@ -1,8 +1,18 @@
-#مشخصات_تگ_تغییر_ندید_اسکی_نرید#حق_کپی_کردن_و_تغییر_تگها_رو_نداره_کسی
+#حق_کپی_کردن_و_تغییر_تگها_رو_نداره_کسی
  #اسکی_نرو_بی
 #ببینم_گیتهاب_گذاشتید
 #توی_چنلی_گذاشتید
 #میگم_کاربرها_ریپورت_کنن
+
+// Copyright (c) 2025 SiNAVM  
+// All rights reserved.  
+// This configuration file is for personal use only. Redistribution, modification, or commercial use is prohibited without explicit permission  
+
+//subscription-userinfo: upload=0; download=0; total=9000000000000; expire=1755868800
+//profile-update-interval: 6  
+//support-url: https://t.me/sinavm  
+//profile-web-page-url: https://t.me/sinavm 
+
 {
   "log": {
     "level": "panic",
@@ -15,18 +25,18 @@
         "address": "https://1.1.1.1/dns-query",
         "address_resolver": "dns_direct",
         "strategy": "prefer_ipv4",
-        "detour": "@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام"
+        "detour": "@sinvt  خرید نسخه ویژه"
       },
       {
         "tag": "dns_direct",
         "address": "local",
         "strategy": "prefer_ipv4",
-        "detour": "@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام"
+        "detour": "@sinvt  خرید نسخه ویژه"
       },
       {
         "tag": "direct",
         "address": "tls://8.8.8.8",
-        "detour": "MTN"
+        "detour": "@sinvt خرید نسخه ویژه"
       },
       {
         "tag": "dns_block",
@@ -37,6 +47,14 @@
       {
         "outbound": "any",
         "server": "dns_direct"
+      },
+      {
+        "outbound": "کانفیگ های رایگان هستند",
+        "server": "local"
+      },
+      {
+        "outbound": "@sinvt خرید نسخه ویژه",
+        "server": "direct"
       }
     ],
     "final": "dns_proxy",
@@ -100,7 +118,7 @@
   "outbounds": [
     {
       "type": "selector",
-      "tag": "این نسخه کاتفیگهای رایگان است",
+      "tag": "@sinvt  خرید نسخه ویژه",
       "outbounds": [
         "@𝙎𝙞𝙉𝘼𝙑𝙈",
         "@𝙎𝙞𝙉𝘼𝙑𝙈"
@@ -108,7 +126,7 @@
     },
     {
       "type": "selector",
-      "tag": "@sinvt خرید نسخه اختصاصی",
+      "tag": "کانفیگ های رایگان هستند",
       "outbounds": [
         "@𝙎𝙞𝙉𝘼𝙑𝙈",
         "@𝙎𝙞𝙉𝘼𝙑𝙈"
@@ -116,79 +134,47 @@
     },
     {
       "type": "selector",
-      "tag": "@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام",
+      "tag": "@sinvt خرید نسخه ویژه",
       "outbounds": [
         "@𝙎𝙞𝙉𝘼𝙑𝙈",
 "جهت خرید به sinvt@",
         "جهت خرید به sinvt@ § 2",
         "جهت خرید به sinvt@ § 3",
         "🤴🏼@𝗦𝗶𝗡𝗔𝗩𝗠👈کانال تلگرام",
-        "@sinavm-1",
-        "@sinavm-2",
         "@sinavm-3",
         "@sinavm-4",
-        "@sinavm-5",
-        "@sinavm-6",
-        "@sinavm-7",
-        "@sinavm-8",
-        "@sinavm-9",
-        "@sinavm-10",
-        "@sinavm-11",
-        "@sinavm-12",
-        "@sinavm-13",
-        "@sinavm-14",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠-15",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠-16"
-      ]
-    },
+        "@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻تلگرام🇫🇷",
+        "@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻تلگرام🇸🇪",
+        "@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻تلگرام🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+        ],
+        "default": "@𝗦𝗶𝗡𝗔𝗩𝗠👈کانال تلگرام",
+        "interrupt_exist_connections": true
+      },
     {
       "type": "urltest",
       "tag": "@𝙎𝙞𝙉𝘼𝙑𝙈",
       "outbounds": [
+
 "جهت خرید به sinvt@",
         "جهت خرید به sinvt@ § 2",
         "جهت خرید به sinvt@ § 3",
         "🤴🏼@𝗦𝗶𝗡𝗔𝗩𝗠👈کانال تلگرام",
-        "@sinavm-1",
-        "@sinavm-2",
         "@sinavm-3",
         "@sinavm-4",
-        "@sinavm-5",
-        "@sinavm-6",
-        "@sinavm-7",
-        "@sinavm-8",
-        "@sinavm-9",
-        "@sinavm-10",
-        "@sinavm-11",
-        "@sinavm-12",
-        "@sinavm-13",
-        "@sinavm-14",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠-15",
-        "@𝗦𝗶𝗡𝗔𝗩𝗠-16"
+        "@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻تلگرام🇫🇷",
+        "@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻تلگرام🇸🇪",
+        "@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻تلگرام🏴󠁧󠁢󠁥󠁮󠁧󠁿"
       ],
-      "url": "http://whoer.net",
+      "url": "http://www.gstatic.com/generate_204",
       "interval": "9m0s",
       "tolerance": 1,
       "idle_timeout": "9m0s"
     },
     {
-      "type": "vless",
-      "tag": "🤴🏼@𝗦𝗶𝗡𝗔𝗩𝗠👈کانال تلگرام",
-      "server": "public15v7.fastipsport.com",
-      "server_port": 8880,
-      "uuid": "e4824193-4f54-453b-d037-88368e85ef0e",
-      "transport": {
-        "type": "grpc",
-        "idle_timeout": "15s",
-        "ping_timeout": "15s"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
       "type": "shadowsocks",
       "tag": "جهت خرید به sinvt@",
       "detour": "جهت خرید به sinvt@ § 2",
-      "server": "مادر_جنده_اوندی_دزدی_کنی",
+      "server": "مادر_جنده_اسکی_دزدی_کنی",
       "server_port": 4776,
       "method": "chacha20-ietf-poly1305",
       "password": "bAAxsfTzcawBOxZUDRRZkA"
@@ -196,244 +182,12 @@
     {
       "type": "shadowsocks",
       "tag": "جهت خرید به sinvt@ § 2",
-      "server": "146.103.101.63",
-      "server_port": 4776,
-      "method": "chacha20-ietf-poly1305",
-      "password": "bAAxsfTzcawBOxZUDRRZkA"
-    },
-    {
+"server":"85.208.139.158", "server_port":25607, "method":"chacha20-ietf-poly1305", "password":"IX8JhjWfZl0iQ8iSaIiCNm" }, {
       "type": "shadowsocks",
       "tag": "جهت خرید به sinvt@ § 3",
-      "server": "85.208.139.158",
-      "server_port": 25607,
-      "method": "chacha20-ietf-poly1305",
-      "password": "CfsQIezMsCmyJN8QgBicdS"
-    },
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-1",
-      "server": "144.172.106.192",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "TabassomDreams"
-      },
-      "password": "BZnk2SlPkq",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-2",
-      "server": "45.138.99.213",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "FarzanehDreams"
-      },
-      "password": "5oITDYnNW7",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-    {
-      "type": "shadowsocks",
-      "tag": "@sinavm-3",
-      "server": "45.87.175.22",
-      "server_port": 8080,
-      "method": "chacha20-ietf-poly1305",
-      "password": "oZIoA69Q8yhcQV8ka3Pa3A"
-    },
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-4",
-  "server": "209.141.47.127",
-  "server_port": 3234,
-  "password": "65a43b6e-19c5-4fab-b960-d110a07d66a4",
-  "tls": {
-    "enabled": true,
-    "insecure": true
-  }
-},
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-5",
-  "server": "209.141.47.127",
-  "server_port": 3234,
-  "password": "65a43b6e-19c5-4fab-b960-d110a07d66a4",
-  "tls": {
-    "enabled": true,
-    "insecure": true
-  }
-},
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-6",
-  "server": "150.230.30.237",
-  "server_port": 45979,
-  "password": "cfe032e4-1bc3-454f-9d09-301b0aea08ff",
-  "tls": {
-    "enabled": true,
-    "server_name": "www.bing.com",
-    "insecure": true
-  }
-},
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-7",
-      "server": "45.138.99.213",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "FarzanehDreams"
-      },
-      "password": "5oITDYnNW7",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-8",
-      "server": "45.138.99.213",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "FarzanehDreams"
-      },
-      "password": "5oITDYnNW7",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-9",
-  "server": "45.129.2.108",
-  "server_port": 50850,
-  "password": "dongtaiwang.com",
-  "tls": {
-    "enabled": true,
-    "server_name": "www.bing.com",
-    "insecure": true
-  }
-},
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-10",
-  "server": "45.129.2.108",
-  "server_port": 50850,
-  "password": "dongtaiwang.com",
-  "tls": {
-    "enabled": true,
-    "server_name": "www.bing.com",
-    "insecure": true
-  }
-},
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-11",
-      "server": "144.172.106.192",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "TabassomDreams"
-      },
-      "password": "BZnk2SlPkq",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-12",
-      "server": "45.138.99.213",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "FarzanehDreams"
-      },
-      "password": "5oITDYnNW7",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-13",
-  "server": "45.207.222.138",
-  "server_port": 8888,
-  "password": "nfsn666",
-  "tls": {
-    "enabled": true,
-    "server_name": "hk.nfsn666.gq",
-    "insecure": true
-  }
-},
-{
-  "type": "hysteria2",
-  "tag": "@sinavm-14",
-  "server": "45.207.222.138",
-  "server_port": 8888,
-  "password": "nfsn666",
-  "tls": {
-    "enabled": true,
-    "server_name": "hk.nfsn666.gq",
-    "insecure": true
-  }
-},
-    {
-      "type": "vless",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠-15",
-      "domain_strategy": "prefer_ipv4",
-      "server": "104.24.171.107",
-      "server_port": 443,
-      "uuid": "e9979910-79d1-4621-a93c-b2a579c44ba7",
-      "tls": {
-        "enabled": true,
-        "server_name": "vNgSUppLy.IP-dDnS.COm",
-        "alpn": "http/1.1",
-        "min_version": "1.3",
-        "max_version": "1.3",
-        "utls": {
-          "enabled": true,
-          "fingerprint": "randomized"
-        }
-      },
-      "transport": {
-        "type": "ws",
-        "path": "/eJ5JZ3A1HxfU0bPO",
-        "headers": {
-          "Host": "vNgSUppLy.IP-dDnS.COm"
-        },
-        "max_early_data": 2560,
-        "early_data_header_name": "Sec-WebSocket-Protocol"
-      },
-      "packet_encoding": "xudp"
-    },
-    {
-      "type": "hysteria2",
-      "tag": "@𝗦𝗶𝗡𝗔𝗩𝗠-16",
-      "server": "45.138.99.213",
-      "server_port": 8443,
-      "obfs": {
-        "type": "salamander",
-        "password": "FarzanehDreams"
-      },
-      "password": "5oITDYnNW7",
-      "tls": {
-        "enabled": true,
-        "insecure": true
-      }
-    },
- ],
+"server":"89.110.85.176", "server_port":16432, "method":"chacha20-ietf-poly1305", "password":"86DvwOOD3CCeeMiQFbscgn" },
+{ "type":"vless", "tag":"🤴🏼@𝗦𝗶𝗡𝗔𝗩𝗠👈کانال تلگرام", "server":"public15v7.fastipsport.com", "server_port":8880, "uuid":"e4824193-4f54-453b-d037-88368e85ef0e", "transport":{ "type":"grpc", "idle_timeout":"15s", "ping_timeout":"15s" }, "packet_encoding":"xudp" }, { "type":"shadowsocks", "tag":"@sinavm-3", "server":"45.87.175.22", "server_port":8080, "method":"chacha20-ietf-poly1305", "password":"oZIoA69Q8yhcQV8ka3Pa3A" }, { "type":"shadowsocks", "tag":"@sinavm-4", "server":"45.87.175.22", "server_port":8080, "method":"chacha20-ietf-poly1305", "password":"oZIoA69Q8yhcQV8ka3Pa3A" }, { "type":"http", "tag":"@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻تلگرام🇫🇷", "server":"prox-es.pointtoserver.com", "server_port":10780, "username":"purevpn0d10722612", "password":"xYXpDIhMLKLqB5", "tls":{ "server_name":"namava.ir", "alpn":"h2,http/1.1" }, "headers":{ "Host":"stream.meet.google.com" } }, { "type":"http", "tag":"@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻تلگرام🇸🇪", "server":"prox-se.pointtoserver.com", "server_port":10780, "username":"purevpn0d10722612", "password":"xYXpDIhMLKLqB5", "tls":{ "server_name":"namava.ir", "alpn":"h2,http/1.1" }, "headers":{ "Host":"stream.meet.google.com" } }, { "type":"http", "tag":"@𝗦𝗶𝗡𝗔𝗩𝗠👈🏻تلگرام🏴󠁧󠁢󠁥󠁮󠁧󠁿", "server":"prox-uk.pointtoserver.com", "server_port":10780, "username":"purevpn0d10722612", "password":"xYXpDIhMLKLqB5", "tls":{ "server_name":"namava.ir", "alpn":"h2,http/1.1" }, "headers":{ "Host":"stream.meet.google.com" } },
+  ],
   "route": {
     "rules": [
       {
@@ -457,6 +211,10 @@
         "action": "hijack-dns"
       },
       {
+        "clash_mode": "@sinvt خرید نسخه ویژه",
+        "outbound": "کانفیگ های رایگان هستند"
+      },
+      {
         "network": "tcp",
         "port": 853,
         "action": "reject",
@@ -474,7 +232,7 @@
       },
       {
         "ip_cidr": "10.10.34.0/24",
-        "outbound": "@𝐒𝐢𝐍𝐀𝐕𝐌👈🏻کانال تلگرام"
+        "outbound": "@sinvt  خرید نسخه ویژه"
       },
       {
         "ip_is_private": true,
